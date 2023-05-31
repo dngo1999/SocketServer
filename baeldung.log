@@ -1,0 +1,37 @@
+2023-05-30 21:01:19 INFO  Avaya listener started on port: 56462
+2023-05-30 21:01:19 INFO  Avaya listener started on port: 56462
+2023-05-30 21:01:19 ERROR Error retrieving DB info...
+java.io.FileNotFoundException: dbContext.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.att.avaya.MultithreadServer.config(MultithreadServer.java:84)
+	at com.att.avaya.MultithreadServer$ClientHandler.run(MultithreadServer.java:56)
+2023-05-30 21:01:19 INFO  ...received...hello
+2023-05-30 21:01:19 INFO  ...received...world
+2023-05-30 21:01:19 INFO  ---terminating socket---BYE!
+2023-05-30 21:01:19 INFO  Avaya listener started on port: 56462
+2023-05-30 21:01:19 ERROR Error retrieving DB info...
+java.io.FileNotFoundException: dbContext.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.att.avaya.MultithreadServer.config(MultithreadServer.java:84)
+	at com.att.avaya.MultithreadServer$ClientHandler.run(MultithreadServer.java:56)
+2023-05-30 21:01:19 INFO  ...received...hello
+2023-05-30 21:01:19 INFO  ...received...world
+2023-05-30 21:01:19 INFO  ---terminating socket---BYE!
+2023-05-30 21:01:19 INFO  Avaya listener started on port: 56462
+2023-05-30 21:01:19 ERROR Error retrieving DB info...
+java.io.FileNotFoundException: dbContext.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.att.avaya.MultithreadServer.config(MultithreadServer.java:84)
+	at com.att.avaya.MultithreadServer$ClientHandler.run(MultithreadServer.java:56)
+2023-05-30 21:01:19 INFO  ...received...hello
+2023-05-30 21:01:19 INFO  ...received...world
+2023-05-30 21:01:19 INFO  ---terminating socket---BYE!
