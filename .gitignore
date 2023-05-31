@@ -3,30 +3,30 @@
 target/
 
 # # https://github.com/takari/maven-wrapper#usage-without-binary-jar
-# .mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
 
 # # Eclipse m2e generated files
 # # Eclipse Core
-# .project
+.project
 # # JDT-specific (Eclipse Java Development Tools)
-# #.classpath
+.classpath
 # # Compiled class file
-# *.class
+*.class
 
 # # Log file
-# *.log
+*.log
 # .gitignore
 
 # # Package Files #
-# *.jar
-# *.war
-# *.ear
-# *.zip
-# *.tar.gz
-# *.rar
-# **/.checkstyle
-# bin/
-# **/lib/
-# .vscode-test
-# **/vscode.d.ts
-# **/vscode.proposed.d.ts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+**/.checkstyle
+bin/
+**/lib/
+.vscode-test
+**/vscode.d.ts
+**/vscode.proposed.d.ts
